@@ -12,6 +12,7 @@ class dendro:
     "Tree Growth, Contraction, and Recovery: Disentangling Soil and Atmospheric Drought Effects"
     Erez Feuer, Yakir Preisler, Eyal Rotenberg, Dan Yakir and Yair Mau
     Plant, Cell & Environment (2025)
+    https://doi.org/10.1111/pce.15604
 
     The methods section gives a detailed description of the algorithms used in this class.
     
